@@ -30,8 +30,7 @@ All components are decoupled and communicate via HTTP.
 
 4. Create a .env file in the root directory and add:
    GROQ_API_KEY=your_groq_key
-   LANGSMITH_API_KEY=your_langsmith_key
-   NOMIC_API_KEY=your_nomic_key
+   
 
 ## How to Run
 
