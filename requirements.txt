@@ -1,0 +1,26 @@
+# Core components
+fastapi
+uvicorn
+streamlit
+httpx
+
+# LangChain + Groq LLM integration
+langchain
+langchain-community
+langchain-core
+langchain-openai  # Optional if you're mixing providers
+langchain-groq    # Only if needed, otherwise you're using init_chat_model
+langchain-nomic
+langchain-text-splitters
+# Environment variable loading
+python-dotenv
+
+# File parsing for summarization
+PyMuPDF  # PDF parsing
+markdown  # Markdown to HTML
+
+# Optional cleanup for Markdown (if needed later)
+beautifulsoup4
+
+# LLM backends (Ollama is optional if using local LLMs)
+ollama  # Optional: for local model fallback
