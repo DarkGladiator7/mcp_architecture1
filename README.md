@@ -25,10 +25,10 @@ All components are decoupled and communicate via HTTP.
    venv\Scripts\activate   (Windows)
    source venv/bin/activate   (macOS/Linux)
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
-4. Create a .env file in the root directory and add:
+5. Create a .env file in the root directory and add:
    GROQ_API_KEY=your_groq_key
    
 
