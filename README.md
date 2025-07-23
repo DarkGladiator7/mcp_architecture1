@@ -17,7 +17,7 @@ All components are decoupled and communicate via HTTP.
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/DarkGladiator7/mcp_architecture.git
+   git clone https://github.com/DarkGladiator7/mcp_architecture1.git
    cd mcp_architecture
 
 2. Create and activate a virtual environment:
